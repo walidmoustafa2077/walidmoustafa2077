@@ -1,212 +1,213 @@
-# 👋 Hi, I'm Walid
+<!--
+  Icons in assets/icons/ are Font Awesome Free 6.7.2 SVG files (CC BY 4.0 — fontawesome.com/license/free),
+  recolored to #818CF8 (indigo) and #06B6D4 (cyan). Files are named <icon>-indigo.svg / <icon>-cyan.svg.
+  assets/pipeline.svg is original artwork. Commit the whole assets/ folder next to this README.
+-->
 
-**Full-Stack Developer — Egypt · Remote**
+<div align="center">
 
-I build systems that have to work outside the demo: .NET backends, retail platforms, and document-vision pipelines. AI writes a lot of the code — I choose the architecture, review the diffs, and ship it.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=Walid%20Moustafa&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20.NET%20Backends%20%C2%B7%20Document%20Vision&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Walid Moustafa — full-stack developer, .NET backends, document vision" />
 
-**[🌐 walidmoustafa2077.github.io →](https://walidmoustafa2077.github.io/)**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=680&lines=I+build+systems+that+have+to+work+outside+the+demo.;.NET+backends+%7C+retail+platforms+%7C+document+vision;AI+writes+code.+I+own+the+architecture+and+the+diffs.;Shipped+beats+perfect." alt="I build systems that have to work outside the demo" />
+</a>
 
-[GitHub](https://github.com/walidmoustafa2077) · [LinkedIn](https://www.linkedin.com/in/walidmostafa77) · [Email](mailto:walidmostafa2077@gmail.com)
+<br/><br/>
 
----
+<a href="https://walidmoustafa2077.github.io"><img src="assets/icons/globe-indigo.svg" height="18" alt="" />&nbsp;Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/walidmoustafa2077"><img src="assets/icons/github-indigo.svg" height="18" alt="" />&nbsp;GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/walidmostafa77"><img src="assets/icons/linkedin-indigo.svg" height="18" alt="" />&nbsp;LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:walidmostafa2077@gmail.com"><img src="assets/icons/envelope-indigo.svg" height="18" alt="" />&nbsp;Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/walid-mostafa"><img src="assets/icons/stack-overflow-indigo.svg" height="18" alt="" />&nbsp;Stack Overflow</a>
 
-## 🧠 About Me
+<br/><br/>
 
-- 💻 Backend first, in C# and Python — APIs, data models, and the unglamorous work that makes a system usable: auth, payments, migrations, deploys
-- 🖼️ Building document-vision pipelines: corner detection, dewarping, shadow removal, and the synthetic datasets that train them
-- 🧱 Comfortable across the stack — ASP.NET Core and .NET 9/10 on the server, WPF or React/Next.js on the client
-- 🐳 Hands-on with Docker, GitHub Actions, EF Core, SQLite/PostgreSQL/SQL Server, and CI/CD
-- 🤖 AI-assisted, human-accountable: the typing got faster, the judgement stayed mine
-- 📚 Pursuing a Bachelor's in BIS, plus Microsoft, Meta, and IBM certifications
+<sub>
+<a href="#about">About</a> &nbsp;·&nbsp;
+<a href="#featured-work">Work</a> &nbsp;·&nbsp;
+<a href="#document-vision-pipeline">Pipeline</a> &nbsp;·&nbsp;
+<a href="#also-building">More</a> &nbsp;·&nbsp;
+<a href="#tech-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#github-stats">Stats</a>
+</sub>
 
----
+</div>
 
-<h2>🛠️ Tech Stack</h2>
+<br/>
 
-<!-- Languages & Frameworks -->
-<h3>Languages & Frameworks</h3>
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET_9/10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WPF_(MVVM)-68217A?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAML-007ACC?style=for-the-badge&logo=xml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+## <img src="assets/icons/user-cyan.svg" height="24" alt="" />&nbsp; About
 
-<!-- Backend & APIs -->
-<h3>Backend & APIs</h3>
-<p>
-  <img src="https://img.shields.io/badge/Minimal_APIs-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_APIs-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role_Based_Access_Control-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OAuth-2F855A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-1DA1F2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+I build the parts of a product that never make it to the landing page: **auth, payments, migrations, deploys**. Backend first, in C# and Python. I keep scope small enough to finish and tests honest enough to trust, then ship the thing.
 
-<!-- Frontend -->
-<h3>Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-2196F3?style=for-the-badge"/>
-</p>
+> **Shipped beats perfect.**
 
-<!-- AI & Document Vision -->
-<h3>AI & Document Vision</h3>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender_4.2-FF7A00?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-</p>
+| | |
+|:---|:---|
+| <img src="assets/icons/server-indigo.svg" height="16" alt="" />&nbsp; **Backend** | C# and Python. ASP.NET Core, .NET 9/10, EF Core, minimal APIs |
+| <img src="assets/icons/file-image-indigo.svg" height="16" alt="" />&nbsp; **Document Vision** | Corner detection, dewarping, shadow removal, and the synthetic datasets that train them |
+| <img src="assets/icons/layer-group-indigo.svg" height="16" alt="" />&nbsp; **Full stack** | WPF or React/Next.js on the client, Docker and GitHub Actions on the way out |
+| <img src="assets/icons/robot-indigo.svg" height="16" alt="" />&nbsp; **AI-assisted** | The typing got faster. The judgement stayed mine |
+| <img src="assets/icons/graduation-cap-indigo.svg" height="16" alt="" />&nbsp; **Learning** | Bachelor's in BIS, plus Microsoft, Meta, and IBM certifications |
 
-<!-- Infrastructure & Tooling -->
-<h3>Infrastructure & Tooling</h3>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/CI/CD_Pipelines-0033A0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux_(Nginx)-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows_Server_(IIS)-0078D6?style=for-the-badge&logo=windows"/>
-  <img src="https://img.shields.io/badge/Azure_App_Service-0078D4?style=for-the-badge&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/GCP_(IaaS)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-</p>
+<br/>
 
----
+## <img src="assets/icons/rocket-cyan.svg" height="24" alt="" />&nbsp; Featured Work
 
-## 🚀 Selected Work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [NexaPOS — Retail Point of Sale](https://github.com/walidmoustafa2077/StorePOS) *(public build, archived)*
-A retail POS in two pieces: a .NET 9 API for products, sales, carts, and inventory, and a WPF client for the counter.
-- 🧾 Minimal APIs with EF Core repositories and infinite-scroll stock views
-- 🔐 JWT authentication with Admin, Manager, and Cashier roles
-- 🖥️ WPF client built with MVVM for day-to-day counter work
+### <img src="assets/icons/file-image-indigo.svg" height="20" alt="" />&nbsp; Document Vision
+Small, focused models that turn a **phone photo into a clean scan**: detect → dewarp → remove shadows → export.
 
----
+`PyTorch` `ONNX` `.NET` `Blender`
 
-### NexaCV — Subscription CV Builder *(private)*
-A CV product where the boring parts are the product: billing, exports, and tests.
-- ✍️ AI-assisted writing with ATS-friendly document exports
-- 💳 Paddle billing — checkout, webhooks, customer portal, and subscription sync
-- 🎨 Documented design system shared across the product screens
-- 🧪 Playwright coverage across the Next.js app
+[PaperMask](https://github.com/walidmoustafa2077/PaperMask) · [Details below ↓](#document-vision-pipeline)
 
----
+</td>
+<td width="50%" valign="top">
 
-### [Tathkīr — Islamic Utilities Suite](https://github.com/walidmoustafa2077/Tathkir)
-A Windows prayer companion that keeps the day's times, remembrance, and Qur'an within reach.
-- 🕌 Multi-location prayer times with a local countdown, Hijri calendar, and tray widget
-- 📖 Athkar, tasbeeh, and full Qur'an recitation
-- 🎧 100+ reciters streamed through a typed `HttpClient`
-- 🌐 Localization, RTL support, dynamic theming, and a Dockerized ASP.NET Core API
+### <img src="assets/icons/microphone-lines-indigo.svg" height="20" alt="" />&nbsp; Voice Agent
+A local phone-call loop you can **interrupt mid-sentence**. Barge-in at ~250 ms, audio never leaves the machine.
 
----
+`Silero VAD` `Zipformer` `Ollama` `SignalR`
 
-### [Voice Agent — Local Phone-Call Loop](https://github.com/walidmoustafa2077/voice-agent)
-A local voice agent you can interrupt mid-sentence.
-- 🎙️ Cascade: Silero VAD → Kroko streaming Zipformer → Ollama → SAPI/Kokoro TTS
-- 🔒 Audio stays on the machine; only text reaches the model
-- ⚡ Barge-in at ~250 ms with a per-stage latency HUD over a SignalR audio stream
+[Source](https://github.com/walidmoustafa2077/voice-agent)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🖼️ Document Vision Pipeline
+### <img src="assets/icons/cash-register-indigo.svg" height="20" alt="" />&nbsp; NexaPOS
+Retail point of sale: a **.NET 9 API** (products, sales, carts, inventory) and a **WPF counter client**. JWT auth with Admin, Manager, and Cashier roles.
 
-A set of small, focused models that turn a phone photo into a clean scan.
+`ASP.NET Core` `EF Core` `WPF` `MVVM`
 
-- **[PaperMask](https://github.com/walidmoustafa2077/PaperMask)** — corner detection with MobileNetV3-Small + Lite-FPN, a heatmap head plus sub-pixel offsets, exported to ONNX (~1 MB) for .NET
-- **[DocDewarper-Lite](https://github.com/walidmoustafa2077/DocDewarper-Lite)** — UVDoc fine-tuned on the NexaDoc 50K synthetic dataset, with a Kaggle 2×T4 training notebook
-- **[DocShadow-Lite](https://github.com/walidmoustafa2077/DocShadow-Lite)** — two-stage PyTorch shadow removal: IOANet, then Laplacian-pyramid refinement
-- **[Doc-Dataset-Generate](https://github.com/walidmoustafa2077/Doc-Dataset-Generate)** — SynDoc_Wild: synthetic shadows, camera degradation, and perspective warp in Python, with a photorealistic Blender 4.2 pipeline
-- **NexaDoc 50K** — the published [Kaggle dataset](https://www.kaggle.com/datasets/walidmostafa77/nexadoc-50k) behind the dewarping work
+<sub>Private</sub>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧰 More Builds
+### <img src="assets/icons/mosque-indigo.svg" height="20" alt="" />&nbsp; Tathkīr
+Windows prayer companion: multi-location times, Hijri calendar, tray widget, athkar, and Qur'an with **100+ reciters**. RTL, localization, dynamic theming.
 
-- **[let-me-code](https://github.com/walidmoustafa2077/let-me-code)** — an agent factory for [opencode](https://opencode.ai): specialised subagents, workflow skills, and a delegation MCP server, bootstrapped with one command
-- **store-system** *(private)* — retail back office plus public storefront in one codebase: terminal, inventory, shifts, wallets, and Paymob checkout
-- **[tasks-lite](https://github.com/walidmoustafa2077/tasks-lite)** — a task API with JWT auth, validation, clean errors, and Swagger docs
-- **[RecycleBinTray](https://github.com/walidmoustafa2077/RecycleBinTray)** — a Windows tray monitor for the Recycle Bin: live item count and size, open or empty from a native menu
+`WPF` `HttpClient` `Docker` `ASP.NET Core`
 
-> ⚠️ **Recoil Magnet** — an aim trainer with JWT licensing, webhook payments, and per-user MSBuild runtime generation. Retired pre-alpha after an ethical evaluation of usage patterns; kept as a record of what not to ship.
+[Source](https://github.com/walidmoustafa2077/Tathkir)
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-## 📜 Certifications
+### <img src="assets/icons/file-invoice-indigo.svg" height="20" alt="" />&nbsp; NexaCV <sub>(private)</sub>
+Subscription CV builder where the boring parts are the product: **Paddle billing** (checkout, webhooks, customer portal, subscription sync), ATS-friendly exports, a documented design system, and **Playwright** coverage across the Next.js app.
 
-- 🎓 **Microsoft**
-  - Introduction to Programming with C#
-  - Back-End Web Development
+`Next.js` `Paddle` `Playwright`
 
-- 🎓 **IBM**
-  - Software Engineering
-  - Getting Started with Git and GitHub
+</td>
+</tr>
+</table>
 
-- 🎓 **Meta**
-  - Intro to Front-End Development
+<br/>
 
-> View certificates on [Coursera](https://www.coursera.org/user/a3e0b070434d886cc6e507bf811ea82a)
-
----
-
-## 📫 Let's Connect
-
-- 🌐 **Website**: [walidmoustafa2077.github.io](https://walidmoustafa2077.github.io/)
-- 🐙 **GitHub**: [github.com/walidmoustafa2077](https://github.com/walidmoustafa2077)
-- 📧 **Email**: [walidmostafa2077@gmail.com](mailto:walidmostafa2077@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/walidmostafa77](https://www.linkedin.com/in/walidmostafa77)
-- 💬 **Stack Overflow**: [@walid-mostafa](https://stackoverflow.com/users/28930231/walid-mostafa)
-
----
-
-## 🔍 Currently Working On
-
-- 🖼️ Closing the document pipeline end to end: detect → dewarp → remove shadows → export a clean scan
-- 🧱 Small, local-first tools that keep working after the demo
-- ⚙️ Cleaner .NET backends with minimal APIs, EF Core, and honest tests
-- 🧪 Automating builds and releases with GitHub Actions
-
----
-
-## 📊 GitHub Stats
+## <img src="assets/icons/wand-magic-sparkles-cyan.svg" height="24" alt="" />&nbsp; Document Vision Pipeline
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=walidmoustafa2077&theme=radical&hide_border=true"/>
+  <img src="assets/pipeline.svg" width="880" alt="Detect → dewarp → clean → ship: PaperMask, DocDewarper-Lite, DocShadow-Lite, exported to ONNX for .NET" />
 </p>
 
----
+Each stage is a **small model with one job**, exported to ONNX so the .NET app can run it offline. The hard part is never the architecture — it is the data, so the training pipeline is part of the product.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F44DAD&center=true&vCenter=true&width=800&lines=Shipped+beats+perfect;Read+the+diff.+Ship+the+system.;C%23+%7C+Python+%7C+ASP.NET+Core+%7C+PyTorch;Document+vision%2C+retail+systems%2C+and+local-first+tools" />
-</p>
+| Stage | Project | What it does |
+|:---|:---|:---|
+| <img src="assets/icons/crosshairs-indigo.svg" height="15" alt="" />&nbsp; **Detect** | [**PaperMask**](https://github.com/walidmoustafa2077/PaperMask) | MobileNetV3-Small + Lite-FPN, heatmap head with sub-pixel offsets, exported to ONNX (~1 MB) for .NET |
+| <img src="assets/icons/draw-polygon-indigo.svg" height="15" alt="" />&nbsp; **Dewarp** | [**DocDewarper-Lite**](https://github.com/walidmoustafa2077/DocDewarper-Lite) | UVDoc fine-tuned on NexaDoc 50K, with a Kaggle 2×T4 training notebook |
+| <img src="assets/icons/circle-half-stroke-indigo.svg" height="15" alt="" />&nbsp; **Clean** | [**DocShadow-Lite**](https://github.com/walidmoustafa2077/DocShadow-Lite) | Two-stage shadow removal: IOANet, then Laplacian-pyramid refinement |
+| <img src="assets/icons/flask-indigo.svg" height="15" alt="" />&nbsp; **Data** | [**Doc-Dataset-Generate**](https://github.com/walidmoustafa2077/Doc-Dataset-Generate) | SynDoc_Wild: synthetic shadows, camera degradation, perspective warp, plus a photorealistic Blender 4.2 pipeline |
+| <img src="assets/icons/database-indigo.svg" height="15" alt="" />&nbsp; **Dataset** | **NexaDoc 50K** | Published on Kaggle, the dataset behind the dewarping work |
 
----
+<br/>
 
-> _“Shipped beats perfect.”_
+## <img src="assets/icons/toolbox-cyan.svg" height="24" alt="" />&nbsp; Also Building
+
+| Project | Stack | What it is |
+|:---|:---|:---|
+| [**let-me-code**](https://github.com/walidmoustafa2077/let-me-code) | `Node.js` `MCP` | Agent factory for opencode: specialised subagents, workflow skills, and a delegation MCP server, installed with one command |
+| [**termyx**](https://github.com/walidmoustafa2077/termyx) | `Rust` | Native terminal with first-class RTL support |
+| [**RecycleBinTray**](https://github.com/walidmoustafa2077/RecycleBinTray) | `C#` `Win32` | Windows tray monitor: live item count and size, open or empty from a native menu |
+| [**tasks-lite**](https://github.com/walidmoustafa2077/tasks-lite) | `Node.js` `JWT` | Task API with validation, clean errors, and Swagger docs |
+| **store-system** <sub>(private)</sub> | `ASP.NET Core` `SQL Server` | Retail back office plus public storefront in one codebase: terminal, inventory, shifts, wallets, Paymob checkout |
+
+<br/>
+
+## <img src="assets/icons/screwdriver-wrench-cyan.svg" height="24" alt="" />&nbsp; Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,react,nextjs,tailwind&perline=8" alt="C#, .NET, Python, TypeScript, JavaScript, React, Next.js, Tailwind" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,githubactions,git,pytorch,blender,visualstudio&perline=8" alt="PostgreSQL, SQLite, Docker, GitHub Actions, Git, PyTorch, Blender, Visual Studio" />
+
+<sub><b>Also:</b> EF Core · SQL Server · SignalR · ONNX · Playwright · Ollama · WPF (MVVM)</sub>
+
+</div>
+
+<br/>
+
+## <img src="assets/icons/magnifying-glass-cyan.svg" height="24" alt="" />&nbsp; Currently Working On
+
+- <img src="assets/icons/file-image-indigo.svg" height="14" alt="" />&nbsp; Closing the document pipeline end to end
+- <img src="assets/icons/cubes-indigo.svg" height="14" alt="" />&nbsp; Small, local-first tools that keep working after the demo
+- <img src="assets/icons/gears-indigo.svg" height="14" alt="" />&nbsp; Cleaner .NET backends with minimal APIs, EF Core, and honest tests
+- <img src="assets/icons/github-indigo.svg" height="14" alt="" />&nbsp; Automating builds and releases with GitHub Actions
+
+<br/>
+
+## <img src="assets/icons/certificate-cyan.svg" height="24" alt="" />&nbsp; Certifications
+
+<div align="center">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-C%23_%26_Back--End-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Software_Eng._%26_Git-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-Front--End-0866FF?style=flat-square&logo=meta&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="assets/icons/chart-simple-cyan.svg" height="24" alt="" />&nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=walidmoustafa2077&show_icons=true&hide_border=true&bg_color=0F172A&title_color=818CF8&icon_color=06B6D4&text_color=CBD5E1&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidmoustafa2077&layout=compact&hide_border=true&bg_color=0F172A&title_color=818CF8&text_color=CBD5E1&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=walidmoustafa2077&hide_border=true&background=0F172A&ring=818CF8&fire=06B6D4&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=818CF8&sideLabels=CBD5E1&dates=64748B" alt="Commit streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"Shipped beats perfect."</i>
+
+<br/><br/>
+
+<a href="mailto:walidmostafa2077@gmail.com"><img src="assets/icons/envelope-indigo.svg" height="18" alt="" />&nbsp;<b>walidmostafa2077@gmail.com</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://walidmoustafa2077.github.io"><img src="assets/icons/globe-indigo.svg" height="18" alt="" />&nbsp;walidmoustafa2077.github.io</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=120&section=footer" width="100%" alt="" />
+
+</div>

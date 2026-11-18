@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="t">
+  <title id="t">Document vision pipeline: detect, dewarp, clean, export</title>
+  <rect width="960" height="200" rx="18" fill="#0F172A"/>
+  <text x="40" y="40" fill="#64748B" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" letter-spacing="2">DOCUMENT VISION PIPELINE</text>
+  <text x="920" y="40" text-anchor="end" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5">phone photo in &#8594; clean scan out</text>
+
+  <!-- 1. Detect -->
+  <rect x="40" y="62" width="200" height="112" rx="12" fill="#111C33" stroke="#24344D"/>
+  <svg x="60" y="82" width="22" height="22" viewBox="0 0 512 512" fill="#818CF8"><path d="M256 0c17.7 0 32 14.3 32 32l0 10.4c93.7 13.9 167.7 88 181.6 181.6l10.4 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-10.4 0c-13.9 93.7-88 167.7-181.6 181.6l0 10.4c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-10.4C130.3 455.7 56.3 381.7 42.4 288L32 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l10.4 0C56.3 130.3 130.3 56.3 224 42.4L224 32c0-17.7 14.3-32 32-32zM107.4 288c12.5 58.3 58.4 104.1 116.6 116.6l0-20.6c0-17.7 14.3-32 32-32s32 14.3 32 32l0 20.6c58.3-12.5 104.1-58.4 116.6-116.6L384 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l20.6 0C392.1 165.7 346.3 119.9 288 107.4l0 20.6c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-20.6C165.7 119.9 119.9 165.7 107.4 224l20.6 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-20.6 0zM256 224a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>
+  <text x="92" y="98" fill="#F1F5F9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">DETECT</text>
+  <text x="60" y="134" fill="#C7D2FE" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">PaperMask</text>
+  <text x="60" y="154" fill="#94A3B8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5">corners, sub-pixel</text>
+
+  <path d="M248 118h14" stroke="#334155" stroke-width="1.5"/>
+  <path d="M262 112l6 6-6 6" fill="none" stroke="#334155" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 2. Dewarp -->
+  <rect x="280" y="62" width="200" height="112" rx="12" fill="#111C33" stroke="#24344D"/>
+  <svg x="300" y="82" width="22" height="22" viewBox="0 0 448 512" fill="#22D3EE"><path d="M96 151.4l0 209.1c9.7 5.6 17.8 13.7 23.4 23.4l209.1 0c0-.1 .1-.2 .1-.3l-4.5-7.9-32-56s0 0 0 0c-1.4 .1-2.8 .1-4.2 .1c-35.3 0-64-28.7-64-64s28.7-64 64-64c1.4 0 2.8 0 4.2 .1c0 0 0 0 0 0l32-56 4.5-7.9-.1-.3-209.1 0c-5.6 9.7-13.7 17.8-23.4 23.4zM384.3 352c35.2 .2 63.7 28.7 63.7 64c0 35.3-28.7 64-64 64c-23.7 0-44.4-12.9-55.4-32l-209.1 0c-11.1 19.1-31.7 32-55.4 32c-35.3 0-64-28.7-64-64c0-23.7 12.9-44.4 32-55.4l0-209.1C12.9 140.4 0 119.7 0 96C0 60.7 28.7 32 64 32c23.7 0 44.4 12.9 55.4 32l209.1 0c11.1-19.1 31.7-32 55.4-32c35.3 0 64 28.7 64 64c0 35.3-28.5 63.8-63.7 64l-4.5 7.9-32 56-2.3 4c4.2 8.5 6.5 18 6.5 28.1s-2.3 19.6-6.5 28.1l2.3 4 32 56 4.5 7.9z"/></svg>
+  <text x="332" y="98" fill="#F1F5F9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">DEWARP</text>
+  <text x="300" y="134" fill="#67E8F9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">DocDewarper-Lite</text>
+  <text x="300" y="154" fill="#94A3B8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5">UV map, one pass</text>
+
+  <path d="M488 118h14" stroke="#334155" stroke-width="1.5"/>
+  <path d="M502 112l6 6-6 6" fill="none" stroke="#334155" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 3. Clean -->
+  <rect x="520" y="62" width="200" height="112" rx="12" fill="#111C33" stroke="#24344D"/>
+  <svg x="540" y="82" width="22" height="22" viewBox="0 0 512 512" fill="#818CF8"><path d="M448 256c0-106-86-192-192-192l0 384c106 0 192-86 192-192zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256z"/></svg>
+  <text x="572" y="98" fill="#F1F5F9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">CLEAN</text>
+  <text x="540" y="134" fill="#C7D2FE" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">DocShadow-Lite</text>
+  <text x="540" y="154" fill="#94A3B8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5">IOANet + refinement</text>
+
+  <path d="M728 118h14" stroke="#334155" stroke-width="1.5"/>
+  <path d="M742 112l6 6-6 6" fill="none" stroke="#334155" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 4. Ship -->
+  <rect x="760" y="62" width="200" height="112" rx="12" fill="#111C33" stroke="#24344D"/>
+  <svg x="780" y="82" width="22" height="22" viewBox="0 0 384 512" fill="#22D3EE"><path d="M64 0C28.7 0 0 28.7 0 64L0 448c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-288-128 0c-17.7 0-32-14.3-32-32L224 0 64 0zM256 0l0 128 128 0L256 0zM80 64l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16L80 96c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0c-8.8 0-16-7.2-16-16s7.2-16 16-16zm16 96l192 0c17.7 0 32 14.3 32 32l0 64c0 17.7-14.3 32-32 32L96 352c-17.7 0-32-14.3-32-32l0-64c0-17.7 14.3-32 32-32zm0 32l0 64 192 0 0-64L96 256zM240 416l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z"/></svg>
+  <text x="812" y="98" fill="#F1F5F9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">SHIP</text>
+  <text x="780" y="134" fill="#67E8F9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">ONNX in .NET</text>
+  <text x="780" y="154" fill="#94A3B8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11.5">offline, ~1 MB model</text>
+</svg>
