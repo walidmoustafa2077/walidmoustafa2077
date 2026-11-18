@@ -214,12 +214,21 @@ Each stage is a **small model with one job**, exported to ONNX so the .NET app c
 ## <img src="assets/icons/chart-simple-accent.svg" height="22" alt="">&nbsp; GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=walidmoustafa2077&show_icons=true&hide_border=true&bg_color=0A0705&title_color=FF5A1F&icon_color=FF7A3C&text_color=F4ECE2&count_private=true&border_radius=10" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidmoustafa2077&layout=compact&hide_border=true&bg_color=0A0705&title_color=FF5A1F&text_color=F4ECE2&border_radius=10&langs_count=8" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=walidmoustafa2077&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0A0705&amp;title_color=FF5A1F&amp;icon_color=FF7A3C&amp;text_color=F4ECE2&amp;count_private=true&amp;border_radius=10">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=walidmoustafa2077&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F7F1E8&amp;title_color=C2410C&amp;icon_color=E04E12&amp;text_color=1A1410&amp;count_private=true&amp;border_radius=10" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=walidmoustafa2077&amp;layout=compact&amp;hide_border=true&amp;bg_color=0A0705&amp;title_color=FF5A1F&amp;text_color=F4ECE2&amp;border_radius=10&amp;langs_count=8">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidmoustafa2077&amp;layout=compact&amp;hide_border=true&amp;bg_color=F7F1E8&amp;title_color=C2410C&amp;text_color=1A1410&amp;border_radius=10&amp;langs_count=8" alt="Top languages">
+  </picture>
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=walidmoustafa2077&hide_border=true&background=0A0705&ring=FF5A1F&fire=FF7A3C&currStreakNum=F4ECE2&sideNums=F4ECE2&currStreakLabel=FF5A1F&sideLabels=AB9D8F&dates=8B7D71&border_radius=10" alt="Commit streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=walidmoustafa2077&amp;hide_border=true&amp;background=0A0705&amp;ring=FF5A1F&amp;fire=FF7A3C&amp;currStreakNum=F4ECE2&amp;sideNums=F4ECE2&amp;currStreakLabel=FF5A1F&amp;sideLabels=AB9D8F&amp;dates=8B7D71&amp;border_radius=10">
+    <img height="165" src="https://streak-stats.demolab.com?user=walidmoustafa2077&amp;hide_border=true&amp;background=F7F1E8&amp;ring=FF5A1F&amp;fire=E04E12&amp;currStreakNum=1A1410&amp;sideNums=1A1410&amp;currStreakLabel=C2410C&amp;sideLabels=5F5246&amp;dates=8A7A6B&amp;border_radius=10" alt="Commit streak">
+  </picture>
 </p>
 
 ---
