@@ -20,8 +20,8 @@
   <text x="70" y="282" fill="#F4ECE2" font-family="Georgia,'Times New Roman',serif" font-size="82" font-style="italic" letter-spacing="-1">Mostafa</text>
 
   <!-- tagline -->
-  <text x="1128" y="172" text-anchor="end" fill="#F4ECE2" font-family="Georgia,'Times New Roman',serif" font-size="25">Full-stack developer.</text>
-  <text x="1128" y="210" text-anchor="end" fill="#AB9D8F" font-family="Georgia,'Times New Roman',serif" font-size="25">Ships <tspan fill="#FF5A1F" font-style="italic">systems</tspan>, not demos.</text>
+  <text x="1128" y="202" text-anchor="end" fill="#F4ECE2" font-family="Georgia,'Times New Roman',serif" font-size="25">Full-stack developer.</text>
+  <text x="1128" y="240" text-anchor="end" fill="#AB9D8F" font-family="Georgia,'Times New Roman',serif" font-size="25">Ships <tspan fill="#FF5A1F" font-style="italic">systems</tspan>, not demos.</text>
 
   <!-- rule -->
   <line x1="72" y1="312" x2="1128" y2="312" stroke="#2A221B" stroke-width="1"/>
