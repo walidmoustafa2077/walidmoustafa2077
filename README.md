@@ -157,23 +157,48 @@ Each stage is a **small model with one job**, exported to ONNX so the .NET app c
 
 ## <img src="assets/icons/toolbox-accent.svg" height="22" alt="">&nbsp; Also Building
 
-| Project | Stack | What it is |
-|:---|:---|:---|
-| [**let-me-code**](https://github.com/walidmoustafa2077/let-me-code) | `Node.js` `MCP` | Agent factory for opencode: specialised subagents, workflow skills, and a delegation MCP server, installed with one command |
-| [**termyx**](https://github.com/walidmoustafa2077/termyx) | `Rust` | Native terminal with first-class RTL support |
-| [**RecycleBinTray**](https://github.com/walidmoustafa2077/RecycleBinTray) | `C#` `Win32` | Windows tray monitor: live item count and size, open or empty from a native menu |
-| [**tasks-lite**](https://github.com/walidmoustafa2077/tasks-lite) | `Node.js` `JWT` | Task API with validation, clean errors, and Swagger docs |
-| **store-system** <sub>(private)</sub> | `ASP.NET Core` `SQL Server` | Retail back office plus public storefront in one codebase: terminal, inventory, shifts, wallets, Paymob checkout |
+<table>
+  <tr>
+    <th width="170" align="left">Project</th>
+    <th width="170" align="left">Stack</th>
+    <th align="left">What it is</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/walidmoustafa2077/let-me-code"><b>let-me-code</b></a></td>
+    <td><code>Node.js</code> <code>MCP</code></td>
+    <td>Agent factory for opencode: specialised subagents, workflow skills, and a delegation MCP server, installed with one command</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/walidmoustafa2077/termyx"><b>termyx</b></a></td>
+    <td><code>Rust</code></td>
+    <td>Native terminal with first-class RTL support</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/walidmoustafa2077/RecycleBinTray"><b>RecycleBinTray</b></a></td>
+    <td><code>C#</code> <code>Win32</code></td>
+    <td>Windows tray monitor: live item count and size, open or empty from a native menu</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/walidmoustafa2077/tasks-lite"><b>tasks-lite</b></a></td>
+    <td><code>Node.js</code> <code>JWT</code></td>
+    <td>Task API with validation, clean errors, and Swagger docs</td>
+  </tr>
+  <tr>
+    <td><b>store-system</b> <sub>(private)</sub></td>
+    <td><code>ASP.NET Core</code> <code>SQL Server</code></td>
+    <td>Retail back office plus public storefront in one codebase: terminal, inventory, shifts, wallets, Paymob checkout</td>
+  </tr>
+</table>
 
 ## <img src="assets/icons/screwdriver-wrench-accent.svg" height="22" alt="">&nbsp; Tech Stack
 
-| Area | Tools |
-|:---|:---|
-| **Languages** | `C#` `Python` `TypeScript` `JavaScript` `Rust` `SQL` |
-| **Backend** | `ASP.NET Core` `.NET 9 / 10` `EF Core` `Minimal APIs` `SignalR` |
-| **Frontend** | `React` `Next.js` `Tailwind` `WPF (MVVM)` |
-| **Data &amp; ML** | `PyTorch` `ONNX` `PostgreSQL` `SQL Server` `SQLite` |
-| **Ship** | `Docker` `GitHub Actions` `Playwright` `Git` `Blender` |
+<p>
+<b>Languages</b> — C# · Python · TypeScript · JavaScript · Rust · SQL<br/>
+<b>Backend</b> — ASP.NET Core · .NET 9 / 10 · EF Core · Minimal APIs · SignalR<br/>
+<b>Frontend</b> — React · Next.js · Tailwind · WPF (MVVM)<br/>
+<b>Data &amp; ML</b> — PyTorch · ONNX · PostgreSQL · SQL Server · SQLite<br/>
+<b>Ship</b> — Docker · GitHub Actions · Playwright · Git · Blender
+</p>
 
 ## <img src="assets/icons/magnifying-glass-accent.svg" height="22" alt="">&nbsp; Currently Working On
 
