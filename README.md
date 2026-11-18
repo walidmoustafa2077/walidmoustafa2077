@@ -4,7 +4,7 @@
 
 I build systems that have to work outside the demo: .NET backends, retail platforms, and document-vision pipelines. AI writes a lot of the code — I choose the architecture, review the diffs, and ship it.
 
-**[🌐 walidmoustafa2077.github.io →](https://walidmoustafa2077.github.io/walidmoustafa2077/)**
+**[🌐 walidmoustafa2077.github.io →](https://walidmoustafa2077.github.io/)**
 
 [GitHub](https://github.com/walidmoustafa2077) · [LinkedIn](https://www.linkedin.com/in/walidmostafa77) · [Email](mailto:walidmostafa2077@gmail.com)
 
@@ -178,7 +178,7 @@ A set of small, focused models that turn a phone photo into a clean scan.
 
 ## 📫 Let's Connect
 
-- 🌐 **Website**: [walidmoustafa2077.github.io](https://walidmoustafa2077.github.io/walidmoustafa2077/)
+- 🌐 **Website**: [walidmoustafa2077.github.io](https://walidmoustafa2077.github.io/)
 - 🐙 **GitHub**: [github.com/walidmoustafa2077](https://github.com/walidmoustafa2077)
 - 📧 **Email**: [walidmostafa2077@gmail.com](mailto:walidmostafa2077@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/walidmostafa77](https://www.linkedin.com/in/walidmostafa77)
