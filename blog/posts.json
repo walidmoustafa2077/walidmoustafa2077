@@ -1,0 +1,46 @@
+{
+  "site": "https://walidmoustafa2077.github.io",
+  "count": 2,
+  "categories": {
+    "Development": 1,
+    "Tools": 1
+  },
+  "posts": [
+    {
+      "draft": false,
+      "slug": "clean-architecture-in-dotnet",
+      "title": "Clean Architecture in .NET",
+      "excerpt": "A practical guide to building maintainable and scalable applications using Clean Architecture principles — and knowing when the extra layers are not worth it.",
+      "category": "Development",
+      "tags": [
+        "C#",
+        ".NET",
+        "Architecture"
+      ],
+      "date": "2026-11-08",
+      "cover": "assets/shots/nexapos.jpg",
+      "readTime": 3,
+      "words": 563,
+      "featured": false,
+      "url": "blog/clean-architecture-in-dotnet.html"
+    },
+    {
+      "draft": false,
+      "slug": "getting-started-with-dotnet-10",
+      "title": "Getting Started with .NET 10",
+      "excerpt": "What .NET 10 changes for day-to-day work: file-based apps, C# 14, minimal API validation, and the upgrade path I actually follow.",
+      "category": "Tools",
+      "tags": [
+        ".NET",
+        "C#",
+        "Tooling"
+      ],
+      "date": "2026-11-03",
+      "cover": "assets/shots/voiceagent.jpg",
+      "readTime": 2,
+      "words": 545,
+      "featured": false,
+      "url": "blog/getting-started-with-dotnet-10.html"
+    }
+  ]
+}
