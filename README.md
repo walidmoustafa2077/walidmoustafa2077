@@ -160,7 +160,7 @@ Each stage is a **small model with one job**, exported to ONNX so the .NET app c
 <table>
   <tr>
     <th width="170" align="left">Project</th>
-    <th width="170" align="left">Stack</th>
+    <th width="215" align="left">Stack</th>
     <th align="left">What it is</th>
   </tr>
   <tr>
