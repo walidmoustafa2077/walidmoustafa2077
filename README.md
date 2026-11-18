@@ -27,12 +27,12 @@
 <br/><br/>
 
 <sub>
-<a href="#about">About</a> &nbsp;·&nbsp;
-<a href="#featured-work">Work</a> &nbsp;·&nbsp;
-<a href="#document-vision-pipeline">Pipeline</a> &nbsp;·&nbsp;
-<a href="#also-building">More</a> &nbsp;·&nbsp;
-<a href="#tech-stack">Stack</a> &nbsp;·&nbsp;
-<a href="#github-stats">Stats</a>
+<a href="#-about">About</a> &nbsp;·&nbsp;
+<a href="#-featured-work">Work</a> &nbsp;·&nbsp;
+<a href="#-document-vision-pipeline">Pipeline</a> &nbsp;·&nbsp;
+<a href="#-also-building">More</a> &nbsp;·&nbsp;
+<a href="#-tech-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#-github-stats">Stats</a>
 </sub>
 
 </div>
@@ -66,7 +66,7 @@ Small, focused models that turn a **phone photo into a clean scan**: detect → 
 
 `PyTorch` `ONNX` `.NET` `Blender`
 
-[PaperMask](https://github.com/walidmoustafa2077/PaperMask) · [Details below ↓](#document-vision-pipeline)
+[PaperMask](https://github.com/walidmoustafa2077/PaperMask) · [Details below ↓](#-document-vision-pipeline)
 
 </td>
 <td width="50%" valign="top">
